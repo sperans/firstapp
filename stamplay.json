@@ -1,0 +1,10 @@
+{
+  "appId": "kontakt",
+  "apiKey": "287cb76bb29166faefe491b6a1881a9349c02c9859b1bee6891fd8b729c2429e",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
